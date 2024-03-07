@@ -1,0 +1,28 @@
+{
+  "name": "dotnetnguyen",
+  "version": "1.0.3",
+  "description": "Thư viện giúp bạn tính hiệu của hai số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sign-alex": "^1.0.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "ghost": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henrywillford/dotnetnguyen"
+  },
+  "homepage": "https://github.com/henrywillford",
+  "keywords": [
+    "sign",
+    "add",
+    "sign",
+    "apart"
+  ],
+  "author": "henrywillford",
+  "license": "DOT"
+}

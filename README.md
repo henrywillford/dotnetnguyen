@@ -1,7 +1,6 @@
-#sign-alex
 
-A library that helps you calculate the difference of any two numbers
+#sign-henry
 
-Simple, easy to use, extremely lightweight
-nice to meet you
-wowww
+Thư viện giúp bạn tính hiệu của hai số bất kỳ
+
+Đơn giản, dễ sử dụng, cực nhẹ rất vui được làm quen với bạn

@@ -1,6 +1,6 @@
 {
   "name": "dotnetnguyen",
-  "version": "1.0.3",
+  "version": "1.0.11",
   "description": "Thư viện giúp bạn tính hiệu của hai số bất kỳ",
   "main": "index.js",
   "scripts": {
